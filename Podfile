@@ -7,5 +7,10 @@ target 'chat' do
 
   # Pods for chat
 pod 'Firebase/Analytics'
+pod 'Firebase/Auth'
+pod 'Firebase/Firestore'
+pod 'Firebase/Storage'
+
+pod 'CodableFirebase'
 
 end
